@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://netwatch.digital/sitemap.xml
