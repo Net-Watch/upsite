@@ -4,6 +4,10 @@
         <loc>https://netwatch.digital/</loc>
     </url>
     <url>
+        <loc>https://netwatch.digital/about/</loc>
+        <lastmod>2022-06-14</lastmod>
+    </url>
+    <url>
         <loc>https://netwatch.digital/blog/</loc>
     </url>
     <url>
@@ -13,5 +17,20 @@
     <url>
         <loc>https://netwatch.digital/blog/second/</loc>
         <lastmod>2022-01-19</lastmod>
+    </url>
+    <url>
+        <loc>https://netwatch.digital/corporate/</loc>
+        <lastmod>2022-06-14</lastmod>
+    </url>
+    <url>
+        <loc>https://netwatch.digital/personal/</loc>
+    </url>
+    <url>
+        <loc>https://netwatch.digital/personal/links/</loc>
+        <lastmod>2022-06-14</lastmod>
+    </url>
+    <url>
+        <loc>https://netwatch.digital/personal/partners/</loc>
+        <lastmod>2022-06-14</lastmod>
     </url>
 </urlset>
